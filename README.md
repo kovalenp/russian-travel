@@ -14,4 +14,7 @@
 
 - HTML
 - CSS
-  пше ы
+
+## Live Demo
+
+- [Проект на GitHub Pages](https://kovalenp.github.io/russian-travel/)
