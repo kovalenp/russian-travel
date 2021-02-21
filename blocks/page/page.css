@@ -1,0 +1,26 @@
+.page {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: var(--color_background);
+  color: var(--color_text);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*,
+h1,
+h2,
+ul {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
