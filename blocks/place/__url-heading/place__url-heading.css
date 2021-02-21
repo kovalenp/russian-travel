@@ -13,3 +13,9 @@
     line-height: 12px;
   }
 }
+
+@media screen and (max-width: 797px) {
+  .place__url-heading {
+    margin-left: 16px;
+  }
+}
