@@ -1,5 +1,6 @@
 .place__link {
   text-decoration: underline;
+  align-self: start;
   color: var(--color_text);
   font-size: 18px;
   font-weight: 400;
