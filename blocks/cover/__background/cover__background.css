@@ -9,12 +9,13 @@
   align-items: center;
   position: relative;
   z-index: 1;
+  text-decoration: none;
 }
 
 .cover__background::before {
   content: "";
   background-color: var(--color_background);
-  opacity: 0.2;
+  opacity: 0.3;
   position: absolute;
   top: 0;
   bottom: 0;
@@ -26,6 +27,9 @@
 
 .cover__background:hover::before {
   opacity: 0.8;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
 
 @media screen and (max-width: 1279px) {

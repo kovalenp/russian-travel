@@ -1,3 +1,3 @@
-.header__lang-link:first-child {
-  margin-right: 18px;
+.header__lang-link {
+  color: var(--color_text);
 }
